@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Winter-1222&theme=xcode" />
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 # Action
 <div align="center">
