@@ -5,7 +5,7 @@
   </a>
 </h1>
 <div align="center">
-    <img https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=github-compact />
+    <img src=https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=github-compact />
 	
 </div>
 
