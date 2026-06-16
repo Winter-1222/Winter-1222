@@ -1,16 +1,26 @@
+
+
 <div align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22)&center=true&size=27">
   </a>
 </div>
-## 👨‍💻 About Me 
-- 🔭 Currently working on **AI applications and LLM-based systems** 
-- 🤖 Interested in **AI Agents, RAG, Tool Calling, Workflow Automation, and Multi-Agent Systems** 
-- 🧠 Exploring how to connect **LLMs, external tools, APIs, databases, and real-world workflows** 
-- 🛠️ Building projects with **Python, Java, FastAPI, Spring Boot, Docker, and Vector Databases** 
-- 🚀 Goal: Build useful AI products, not just impressive demos 
+
+#  🙋 Hello
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是岁阑。热爱编程、摄影。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+
 
 <!--
+Winter-1222
  # Action
 <div align="center">
      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Winter-1222&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -47,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
