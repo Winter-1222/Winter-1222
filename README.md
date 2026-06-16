@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-    https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=github-compact
+    <img https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=github-compact />
+	
 </div>
 # Action
 <div align="center">
