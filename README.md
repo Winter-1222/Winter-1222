@@ -9,11 +9,46 @@
 #  🙋 Hello
 
 ### 🤺 About Me
-<p>&emsp;&emsp;嗨，你好，我是岁阑。热爱编程、摄影。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;嗨，你好，我是岁阑，一名热爱编程与摄影的程序员。</p> 
+<p>&emsp;&emsp;关注大语言模型、Agent 开发、RAG 知识库、工具调用和自动化工作流，希望将 AI 能力真正融入实际业务场景。</p> 
+<p>&emsp;&emsp;我相信未来的软件不只是被动响应指令，而是能够理解目标、拆解任务、调用工具并协同完成复杂工作的智能系统。</p> 
+<p>&emsp;&emsp;<strong>Building AI agents that can reason, use tools, connect knowledge, and turn ideas into real-world applications.</strong></p>
 
+<div align="center" >
+	
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)
+![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)
+![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Nginx Badge](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,pytorch,sklearn,fastapi,flask,spring,mysql,redis,elasticsearch,docker,nginx,linux,git,github,postman,idea,pycharm,vscode,ps&theme=light&perline=10)](https://skillicons.dev)
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+
+</div>
 <!--
 Winter-1222
  # Action
@@ -25,15 +60,6 @@ Winter-1222
 
 <div align="center">
     <img src=https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=github-compact />
-</div>
-
- # Technologies
-<div align="center">
-  <span >
-	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-</span>
 </div>
 
 <!--
@@ -52,4 +78,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
