@@ -4,12 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)&center=true&size=27">
   </a>
 </h1>
- # 👨‍💻 About Me
-🔭 Currently working on AI applications and LLM-based systems
-🤖 Interested in AI Agents, RAG, Tool Calling, Workflow Automation, and Multi-Agent Systems
-🧠 Exploring how to connect LLMs, external tools, APIs, databases, and real-world workflows
-🛠️ Building projects with Python, Java, FastAPI, Spring Boot, Docker, and Vector Databases
-🚀 Goal: Build useful AI products, not just impressive demos
+--- 
+## 👨‍💻 About Me 
+- 🔭 Currently working on **AI applications and LLM-based systems** 
+- 🤖 Interested in **AI Agents, RAG, Tool Calling, Workflow Automation, and Multi-Agent Systems** 
+- 🧠 Exploring how to connect **LLMs, external tools, APIs, databases, and real-world workflows** 
+- 🛠️ Building projects with **Python, Java, FastAPI, Spring Boot, Docker, and Vector Databases** 
+- 🚀 Goal: Build useful AI products, not just impressive demos 
+---
 
  # Action
 <div align="center">
