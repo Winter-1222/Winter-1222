@@ -58,9 +58,9 @@ Winter-1222
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
     <img src=https://github-readme-activity-graph.vercel.app/graph?username=Winter-1222&theme=github-compact />
-</div>
+</div> -->
 
 <!--
 -->
